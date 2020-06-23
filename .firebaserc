@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "hero-board": "hero-board",
+    "default": "hero-board"
+  }
+}
